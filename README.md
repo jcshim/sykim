@@ -1,9 +1,7 @@
 # sykim
-1. How to help student using LLM
-2. What is the best measure for performance as a using LLM
-3. How vr in LLM can help education for stduents
-
-아래는 각각의 질문에 대한 한국어 정리입니다. "sykim"이라는 키워드는 사용자명 혹은 주제 태그로 보입니다. 이 내용을 강의, 보고서, 연구 기획 등 다양한 형태로 확장 가능합니다.
+1. **How can we support students through the use of LLMs?**  
+2. **What is the most effective way to measure performance when using LLMs?**  
+3. **How can VR integrated with LLMs enhance education for students?**
 
 ---
 
